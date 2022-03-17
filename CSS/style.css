@@ -1,0 +1,10 @@
+body 
+{
+background-image: url(../images/bg.jpg);
+}
+h1 {
+    color: rgb(87, 87, 90);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: '50px';
+
+  }
