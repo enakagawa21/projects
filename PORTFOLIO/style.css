@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+html {
+  font-size: 18px;
+  color: black;
+  margin: 0;
+}
+
+header {
+  border-bottom: 2px solid gray;
+  position: sticky;
+  background-color: white;
+  text-align: right;
+  z-index: 1;
+  top: 0;
+}
+main {
+  max-width: 1000px;
+  width: 100%;
+  margin: 10px auto;
+  padding: 30px;
+}
+nav > ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav > ul > li {
+  display: inline-block;
+  padding: 20px 20px;
+}
+.aboutheader {
+  text-align: center;
+}
